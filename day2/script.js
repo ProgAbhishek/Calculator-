@@ -185,13 +185,25 @@
 //   console.log(hi());
 //   console.log(typeof function hi() {});
 
-promise hi() {
-    console.log("Hi");
-  }
+// promise hi() {
+//     console.log("Hi");
+//   }
   
-  setTimeout(hi, 2000);
-  console.log(hi());
-  console.log(typeof promise hi() {});
+//   setTimeout(hi, 2000);
+//   console.log(hi());
+//   console.log(typeof promise hi() {});
 
 
+// async function displayDataAsync() {
+//     try {
+//       const response = await fetch("httpss://jsonplaceholder.typicode.com/posts");
+//       const data = await response.json();
+//       console.log(data);
+//     } 
+//   }
   
+//   displayDataAsync();
+  
+  
+
+// DOM MANIPULATION//
